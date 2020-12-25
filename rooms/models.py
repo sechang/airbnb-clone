@@ -19,7 +19,7 @@ class RoomType(AbstractItem):
     """ Room Type Model Definition """
 
     class Meta:
-        verbose_name = "Room Type, blank=True"
+        verbose_name = "Room Type"
 
 
 class Amenity(AbstractItem):
